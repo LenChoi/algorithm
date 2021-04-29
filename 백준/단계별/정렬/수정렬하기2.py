@@ -23,7 +23,7 @@ result = list()
 
 for i in range(n):
     result.append(int(input()))
-    
+
 merge_sort(result)
 result.reverse()
 
